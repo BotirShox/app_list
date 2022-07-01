@@ -33,3 +33,8 @@ while the user scrolls through the list and increases the number of list items b
 - Apply Pure Architecture +
 - Apply Bloc pattern +
 - Using an SQLite database +
+
+
+![Screenshot_20220701_180117](https://user-images.githubusercontent.com/38154419/176921081-16ceef93-eb69-4083-b399-cd5a50a1c078.png)
+![Screenshot_20220701_180201](https://user-images.githubusercontent.com/38154419/176921083-a962f9b6-2136-48cc-b5d1-c63f254afa4f.png)
+![Screenshot_20220701_180730](https://user-images.githubusercontent.com/38154419/176921088-4deed042-417b-4856-a1c0-38c9543136c2.png)
